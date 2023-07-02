@@ -2,8 +2,10 @@ owner: teslamint
 repo: status.teslam.in
 
 sites:
-  - name: teslam.in/t
+  - name: teslam.in
     url: https://teslam.in
+  - name: teslam.in API
+    url: https://teslam.in/api/v1/pleroma/healthcheck
 
 status-website:
   cname: status.teslam.in
