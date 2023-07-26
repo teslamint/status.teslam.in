@@ -6,7 +6,7 @@
     "slug": "teslam-in",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1052,
     "timeMonth": 1807,
     "timeYear": 1807,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "teslam.in API",
