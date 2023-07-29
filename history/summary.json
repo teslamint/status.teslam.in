@@ -4,7 +4,7 @@
     "url": "https://teslam.in",
     "icon": "https://icons.duckduckgo.com/ip3/teslam.in.ico",
     "slug": "teslam-in",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
@@ -16,6 +16,7 @@
     "timeMonth": 1821,
     "timeYear": 1821,
     "dailyMinutesDown": {
+      "2023-07-29": 0,
       "2023-07-26": 18
     }
   },
