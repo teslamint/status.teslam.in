@@ -11,14 +11,13 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
     "time": 470,
-    "timeDay": 364,
-    "timeWeek": 359,
+    "timeDay": 419,
+    "timeWeek": 370,
     "timeMonth": 387,
     "timeYear": 480,
     "dailyMinutesDown": {
       "2024-11-05": 22,
-      "2024-04-02": 318,
-      "2023-11-16": 18
+      "2024-04-02": 318
     }
   },
   {
@@ -27,20 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/teslam.in.ico",
     "slug": "teslam-in-api",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
     "time": 219,
-    "timeDay": 144,
-    "timeWeek": 138,
-    "timeMonth": 134,
+    "timeDay": 131,
+    "timeWeek": 140,
+    "timeMonth": 133,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2024-11-05": 22,
-      "2024-04-02": 318,
-      "2023-11-16": 18
+      "2024-04-02": 318
     }
   }
 ]
