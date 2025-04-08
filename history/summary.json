@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/teslam.in.ico",
     "slug": "teslam-in",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 477,
-    "timeDay": 562,
-    "timeWeek": 491,
-    "timeMonth": 456,
-    "timeYear": 491,
+    "time": 478,
+    "timeDay": 659,
+    "timeWeek": 493,
+    "timeMonth": 459,
+    "timeYear": 492,
     "dailyMinutesDown": {
       "2024-11-05": 22
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 188,
-    "timeWeek": 153,
-    "timeMonth": 159,
+    "timeDay": 231,
+    "timeWeek": 166,
+    "timeMonth": 160,
     "timeYear": 161,
     "dailyMinutesDown": {
       "2024-11-05": 22
