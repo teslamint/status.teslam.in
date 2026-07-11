@@ -4,22 +4,22 @@
     "url": "https://teslam.in",
     "icon": "https://icons.duckduckgo.com/ip3/teslam.in.ico",
     "slug": "teslam-in",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.89%",
     "time": 523,
-    "timeDay": 396,
-    "timeWeek": 476,
+    "timeDay": 408,
+    "timeWeek": 471,
     "timeMonth": 458,
     "timeYear": 525,
     "dailyMinutesDown": {
       "2025-08-08": 518,
       "2025-11-18": 36,
       "2026-01-30": 20,
-      "2026-07-11": 0
+      "2026-07-11": 29
     }
   },
   {
@@ -27,21 +27,22 @@
     "url": "https://teslam.in/api/v1/pleroma/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/teslam.in.ico",
     "slug": "teslam-in-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.89%",
     "time": 252,
-    "timeDay": 258,
-    "timeWeek": 388,
-    "timeMonth": 397,
+    "timeDay": 231,
+    "timeWeek": 364,
+    "timeMonth": 392,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2025-08-08": 518,
       "2025-11-18": 36,
-      "2026-01-30": 20
+      "2026-01-30": 20,
+      "2026-07-11": 29
     }
   }
 ]
