@@ -1,7 +1,7 @@
 url: https://teslam.in/api/v1/pleroma/healthcheck
 status: up
 code: 200
-responseTime: 562
-lastUpdated: 2026-10-27T01:52:57.476Z
+responseTime: 331
+lastUpdated: 2026-10-28T02:03:07.404Z
 startTime: 2023-07-02T13:12:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
